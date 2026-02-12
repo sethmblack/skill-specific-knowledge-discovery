@@ -1,11 +1,9 @@
 ---
 name: specific-knowledge-discovery
-description: Identify what you're uniquely suited to build by finding the intersection
-  of your obsessions, talents, and market needs - following Naval Ravikant's framework
-  for discovering knowledge that cannot ...
+description: Identify what you're uniquely suited to build by finding the intersection of your obsessions, talents, and market needs - following Naval Ravikant's framework for discovering knowledge that cannot ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - specific-knowledge-discovery
