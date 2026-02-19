@@ -3,8 +3,9 @@ name: specific-knowledge-discovery
 description: Identify what you're uniquely suited to build by finding the intersection of your obsessions, talents, and market needs - following Naval Ravikant's framework for discovering knowledge that cannot ...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5024
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - specific-knowledge-discovery
 - writing
